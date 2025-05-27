@@ -7,7 +7,7 @@
 public Plugin myinfo = {
 	name = "Gris/Grau Extra Stages",
 	author = "koen",
-	description = "",
+	description = "Adds support for extra stages of Gris and Grau",
 	version = "",
 	url = "https://github.com/notkoen"
 };
