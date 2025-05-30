@@ -32,9 +32,9 @@ public void OnMapStart()
 		AddFileToDownloadsTable("sound/koen/grau/neutron_reaper.mp3");
 		AddFileToDownloadsTable("sound/koen/grau/vacuum_track.mp3");
 		AddFileToDownloadsTable("sound/koen/grau/tempestissimo.mp3");
-		AddFileToDownloadsTable("materials/correction/tilex_stage6.raw")
-		AddFileToDownloadsTable("materials/correction/ta_darkness.raw")
-		AddFileToDownloadsTable("materials/correction/ta_reversed.raw")
+		AddFileToDownloadsTable("materials/correction/tilex_stage6.raw");
+		AddFileToDownloadsTable("materials/correction/ta_darkness.raw");
+		AddFileToDownloadsTable("materials/correction/ta_reversed.raw");
 	}
 	else if (strncmp(sBuffer, "ze_gris", 7) == 0)
 	{
