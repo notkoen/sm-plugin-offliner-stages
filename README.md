@@ -1,7 +1,7 @@
 
 # Gris and Grau Extra Stages
 
-This plugin allows for the CS:GO extra stages to be played on CSS. A plugin is needed for precaching sounds in CSS unlike in CS:GO, and to add the music files to the file downloads table for players.
+This repository contains all files and plugin needed to play the custom, extra stages for ze_gris and ze_grau. Unlike CS:GO, CS:S requires the usage of a plugin to both add files to the downloads table and to precache sound files.
 
 > [!WARNING]
 > Gris RTV4 has a **VERY HIGH CHANCE OF CRASHING**. Consider playing at your own risk.
