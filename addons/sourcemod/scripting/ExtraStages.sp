@@ -36,7 +36,8 @@ public void OnMapStart()
     else if (strncmp(sCurrentMap, "ze_gris", 7, false) == 0)
     {
         PrecacheSound("#koen/gris/grievouslady_fix.mp3");
-        PrecacheSound("#koen/gris/OuroVoros.mp3");
+        PrecacheSound("#koen/gris/ourovoros.mp3");
+
         AddFileToDownloadsTable("sound/koen/gris/grievouslady_fix.mp3");
         AddFileToDownloadsTable("sound/koen/gris/OuroVoros.mp3");
     }
